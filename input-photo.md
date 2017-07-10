@@ -7,3 +7,7 @@
 命令格式为`![插入图片](https://github.com/zhenghualiang/My-Study-Github/blob/master/my-profile.jpg)`
 
 ![我的个人照](https://github.com/zhenghualiang/My-Study-Github/blob/master/my-profile.jpg)
+* 是否可以采用百度网盘共享的图片呢？
+应该是可以的。试试。
+
+![校友会签到墙](http://pan.baidu.com/s/1o82XVaM)
