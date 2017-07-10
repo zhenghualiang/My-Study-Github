@@ -18,3 +18,7 @@
 这里的很多书都是编程类的。于人文社科类而言，用GitBook写书是不是有一种很Geek的感觉呢？就好象之前看过哈工大的社会学大四学生用GitHub搭建[个人博客](http://www.sociologist.cn/)觉得挺震撼的。
 ## 怎样配置GitBook呢？
 先跟着开智学堂Wiki[配置 GitBook 简易指南](https://github.com/OpenMindClub/Share/wiki/HbGitBookSetting)试一下吧。
+## 怎样在桌面端修改GitBook呢？
+* 下载：下载桌面端GitBook Editor[下载地址](https://www.gitbook.com/editor)63.8M；建议用迅雷工具下载，因为在chrome浏览器下载可能法下载完整导致无法安装。[这个是下载地址](https://www.gitbook.com/editor/windows/download)
+* 安装：
+
