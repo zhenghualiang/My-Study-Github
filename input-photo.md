@@ -4,9 +4,9 @@
 2. 在网页端upload file添加图片。
 * 在.md文件里面插入图片
 
-命令格式为`![插入图片](https://github.com/zhenghualiang/My-Study-Github/blob/master/my-profile.jpg)`
+命令格式为`![插入图片](/image/my-profile.jpg)`
 
-![我的个人照](/my-profile.jpg)
+![我的个人照](/image/my-profile.jpg)
 ***
 * 是否可以采用百度网盘共享的图片呢？
 试试。
