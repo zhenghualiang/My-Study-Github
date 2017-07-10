@@ -4,6 +4,7 @@
 * [create-new-file](create-new-file.md)
 * [issue](issue.md)
 * [create-link](create-link.md)
+* [input-photo](input-photo.md)
 * [GitBook](GitBook.md)
 
 
