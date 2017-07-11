@@ -21,4 +21,4 @@
 ## 怎样在桌面端修改GitBook呢？
 * 下载：下载桌面端GitBook Editor[下载地址](https://www.gitbook.com/editor)63.8M；建议用迅雷工具下载，因为在chrome浏览器下载可能法下载完整导致无法安装。[这个是下载地址](https://www.gitbook.com/editor/windows/download)
 * 安装：
-
+按照默认的程序安装。但是出现了一个问题，一直没办法解决，把鸡都不敢的书拿到本地，要打开的时候经常出现，说什么外部链接已经改变，没办法使用。
