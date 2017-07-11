@@ -2,7 +2,11 @@
 一般的方法是`[TOC]`，但是GitHub里不可用。
 
 类似于建立链接的方法，在所要建立链接的地方输入文件名，只需要在后面再加上`#`以及相应链接的地方，例如`https://github.com/zhenghualiang/Regulatory/blob/master/README.md#？？？`
+* 例如:以下方法实现了页面内的链接，点击就可以直接跳转到相应的地方。
 
+[怎样插入横线？](https://github.com/zhenghualiang/My-Study-Github/blob/master/MarkDown.md#怎样插入横线？)
+
+* 拓展：按照这个方法可以跳转到任何文件的任何位置。
 # 一级标题
 写法是`# 一级标题`注意`#`后面要加上一个空格。
 ## 二级标题
