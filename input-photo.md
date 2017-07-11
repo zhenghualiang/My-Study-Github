@@ -1,8 +1,8 @@
 [TOC]
 
-[怎样插入图片？](https://github.com/zhenghualiang/My-Study-Github/blod/master/input-photo.md#怎样插入图片？)
+[怎样插入图片？](https://github.com/zhenghualiang/My-Study-Github/blob/master/input-photo.md#怎样插入图片？)
 
-[图床](https://github.com/zhenghualiang/My-Study-Github/blod/master/input-photo.md#图床)
+[图床](https://github.com/zhenghualiang/My-Study-Github/blob/master/input-photo.md#图床)
 
 # 怎样插入图片？
 * 先将图片上传。方法有二：
