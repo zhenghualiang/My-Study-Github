@@ -1,3 +1,9 @@
+[TOC]
+
+[怎样插入图片？](https://github.com/zhenghualiang/My-Study-Github/blod/master/input-photo.md#怎样插入图片？)
+
+[图床](https://github.com/zhenghualiang/My-Study-Github/blod/master/input-photo.md#图床)
+
 # 怎样插入图片？
 * 先将图片上传。方法有二：
 1. 在桌面端将图片复制到相应的文件夹里，再通过change确认[commit]
@@ -24,7 +30,7 @@
 * 办法2＝坚果云。道理是一样的，只是共享文件而已。插入坚果云共享的图片
 
 ![坚果云](https://www.jianguoyun.com/p/DaYltSUQo92BBhiW7y8)
-
+# 图床
 * 办法3＝图床。学习了一个新的概念，哈。简书[我的免费图床](http://www.jianshu.com/p/710dba8f577b) 提供了多种方式
 
 我采用其中的方案[七牛云存储](https://portal.qiniu.com) 作图床。用户名f****@163.com pw=z**6**  每个月有1G的空间
