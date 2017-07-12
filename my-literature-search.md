@@ -10,7 +10,7 @@ lcs][CSSCI]( http://cssci.nju.edu.cn/)
 ljm][鸠摩搜索]( https://www.jiumodiary.com/)
 
 lxr][新浪微盘]( http://vdisk.weibo.com/)
-*English
+* English
 
 lgg][谷哥学术]( http://scholar.glgoo.org/    www.gfsoso.com)
 
